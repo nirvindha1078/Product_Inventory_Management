@@ -1,0 +1,79 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Nokia 8910",
+    "product_brand": "Nokia",
+    "product_release_year": 2003,
+    "product_price": 30945
+  },
+  {
+    "product_id": 2,
+    "product_name": "LG Watch Urbane W150",
+    "product_brand": "LG",
+    "product_release_year": 2015,
+    "product_price": 21808
+  },
+  {
+    "product_id": 3,
+    "product_name": "Samsung J400",
+    "product_brand": "Samsung",
+    "product_release_year": 2008,
+    "product_price": 28717
+  },
+  {
+    "product_id": 4,
+    "product_name": "Sony Ericsson Z780",
+    "product_brand": "Sony",
+    "product_release_year": 2008,
+    "product_price": 45113
+  },
+  {
+    "product_id": 5,
+    "product_name": "Sewon SGD-1020",
+    "product_brand": "Sewon",
+    "product_release_year": 2004,
+    "product_price": 30056
+  },
+  {
+    "product_id": 6,
+    "product_name": "Philips Xenium 9@9u",
+    "product_brand": "Philips",
+    "product_release_year": 2008,
+    "product_price": 28538
+  },
+  {
+    "product_id": 7,
+    "product_name": "LG KT610",
+    "product_brand": "LG",
+    "product_release_year": 2008,
+    "product_price": 31115
+  },
+  {
+    "product_id": 8,
+    "product_name": "Samsung T700",
+    "product_brand": "Samsung",
+    "product_release_year": 0,
+    "product_price": 10369
+  },
+  {
+    "product_id": 9,
+    "product_name": "Samsung Galaxy Ace Duos S6802",
+    "product_brand": "Samsung",
+    "product_release_year": 2012,
+    "product_price": 45126
+  },
+  {
+    "product_id": 10,
+    "product_name": "Samsung Galaxy J5 Prime (2017)",
+    "product_brand": "Samsung",
+    "product_release_year": 0,
+    "product_price": 24536
+  },
+  {
+    "product_id": 11,
+    "product_name": "Huawei G6600 Passport",
+    "product_brand": "Huawei",
+    "product_release_year": 2010,
+    "product_price": 34420
+  }
+]
